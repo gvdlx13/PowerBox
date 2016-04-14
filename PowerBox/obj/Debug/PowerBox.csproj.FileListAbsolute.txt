@@ -1,0 +1,16 @@
+C:\Users\garri\Desktop\PowerBox\VintriDropnet\bin\Debug\VintriDropnet.dll
+C:\Users\garri\Desktop\PowerBox\VintriDropnet\bin\Debug\VintriDropnet.pdb
+C:\Users\garri\Desktop\PowerBox\VintriDropnet\bin\Debug\DropNet.dll
+C:\Users\garri\Desktop\PowerBox\VintriDropnet\bin\Debug\RestSharp.dll
+C:\Users\garri\Desktop\PowerBox\VintriDropnet\bin\Debug\RestSharp.xml
+C:\Users\garri\Desktop\PowerBox\VintriDropnet\obj\Debug\PowerBox.csprojResolveAssemblyReference.cache
+C:\Users\garri\Desktop\PowerBox\VintriDropnet\obj\Debug\VintriDropnet.dll
+C:\Users\garri\Desktop\PowerBox\VintriDropnet\obj\Debug\VintriDropnet.pdb
+C:\Users\garri\Desktop\PowerBox\PowerBox\bin\Debug\DropNet.dll
+C:\Users\garri\Desktop\PowerBox\PowerBox\bin\Debug\RestSharp.dll
+C:\Users\garri\Desktop\PowerBox\PowerBox\bin\Debug\RestSharp.xml
+C:\Users\garri\Desktop\PowerBox\PowerBox\obj\Debug\PowerBox.csprojResolveAssemblyReference.cache
+C:\Users\garri\Desktop\PowerBox\PowerBox\bin\Debug\PowerBox.dll
+C:\Users\garri\Desktop\PowerBox\PowerBox\bin\Debug\PowerBox.pdb
+C:\Users\garri\Desktop\PowerBox\PowerBox\obj\Debug\PowerBox.dll
+C:\Users\garri\Desktop\PowerBox\PowerBox\obj\Debug\PowerBox.pdb

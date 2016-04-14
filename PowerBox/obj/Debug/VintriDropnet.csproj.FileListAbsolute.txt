@@ -1,0 +1,23 @@
+C:\Users\Garrick\Documents\Visual Studio 2013\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Garrick\Documents\Visual Studio 2013\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Garrick\Documents\Visual Studio 2013\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\DropNet.dll
+C:\Users\Garrick\Documents\Visual Studio 2013\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\RestSharp.dll
+C:\Users\Garrick\Documents\Visual Studio 2013\Projects\ClassLibrary2\ClassLibrary2\bin\Debug\RestSharp.xml
+C:\Users\Garrick\Documents\Visual Studio 2013\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Garrick\Documents\Visual Studio 2013\Projects\ClassLibrary2\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Garrick\Documents\Visual Studio 2013\Projects\VintriDropnet\VintriDropnet\bin\Debug\VintriDropnet.dll
+C:\Users\Garrick\Documents\Visual Studio 2013\Projects\VintriDropnet\VintriDropnet\bin\Debug\VintriDropnet.pdb
+C:\Users\Garrick\Documents\Visual Studio 2013\Projects\VintriDropnet\VintriDropnet\bin\Debug\DropNet.dll
+C:\Users\Garrick\Documents\Visual Studio 2013\Projects\VintriDropnet\VintriDropnet\bin\Debug\RestSharp.dll
+C:\Users\Garrick\Documents\Visual Studio 2013\Projects\VintriDropnet\VintriDropnet\bin\Debug\RestSharp.xml
+C:\Users\Garrick\Documents\Visual Studio 2013\Projects\VintriDropnet\VintriDropnet\obj\Debug\VintriDropnet.csprojResolveAssemblyReference.cache
+C:\Users\Garrick\Documents\Visual Studio 2013\Projects\VintriDropnet\VintriDropnet\obj\Debug\VintriDropnet.dll
+C:\Users\Garrick\Documents\Visual Studio 2013\Projects\VintriDropnet\VintriDropnet\obj\Debug\VintriDropnet.pdb
+C:\Users\garri\Desktop\VintriDropnet\VintriDropnet\bin\Debug\VintriDropnet.dll
+C:\Users\garri\Desktop\VintriDropnet\VintriDropnet\bin\Debug\VintriDropnet.pdb
+C:\Users\garri\Desktop\VintriDropnet\VintriDropnet\bin\Debug\DropNet.dll
+C:\Users\garri\Desktop\VintriDropnet\VintriDropnet\bin\Debug\RestSharp.dll
+C:\Users\garri\Desktop\VintriDropnet\VintriDropnet\bin\Debug\RestSharp.xml
+C:\Users\garri\Desktop\VintriDropnet\VintriDropnet\obj\Debug\VintriDropnet.csprojResolveAssemblyReference.cache
+C:\Users\garri\Desktop\VintriDropnet\VintriDropnet\obj\Debug\VintriDropnet.dll
+C:\Users\garri\Desktop\VintriDropnet\VintriDropnet\obj\Debug\VintriDropnet.pdb
